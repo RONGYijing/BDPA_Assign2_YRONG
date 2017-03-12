@@ -1,0 +1,149 @@
+0, ebook#6, works#8, complete#9, william#10, shakespeare#14, gutenberg#15, project#17
+81, william#10, shakespeare#14
+104, anywhere#1, anyone#2, cost#3, use#6, ebook#6
+170, almost#1, restrictions#1, whatsoever#1, away#2, copy#4, give#5
+240, terms#1, included#1, re#1, under#3, license#3, use#6, gutenberg#15, project#17
+309, www#1, org#1, online#1, ebook#6, gutenberg#15
+359, details#1, copyrighted#1, below#2, ebook#6, gutenberg#15, project#17
+427, please#1, guidelines#1, follow#1, file#2, copyright#9
+497, title#1, works#8, complete#9, william#10, shakespeare#14
+549, author#3, william#10, shakespeare#14
+580, 2011#1, 100#1, september#1, posting#1, date#2, ebook#6, 1#7
+626, january#1, 1994#1, release#1, date#2
+657, language#1, english#1
+680, start#1, ebook#6, works#8, complete#9, william#10, shakespeare#14, gutenberg#15, project#17
+771, produced#1, future#3, inc#5, library#9, world#9
+846, 100th#1, file#2, presented#2, gutenberg#15, project#17, etext#20
+912, cooperation#1, presented#2, inc#5, library#9, world#9
+978, cdroms#1, future#3, library#9, shakespeare#14, gutenberg#15, project#17
+1044, releases#1, often#1, placed#1, etexts#3, domain#4, public#4
+1112, shakespeare#14
+1127, implications#1, certain#1, read#2, copyright#9, etext#20
+1195, version#3, electronic#6, works#8, complete#9, william#10
+1255, 1993#3, 1990#3, inc#5, library#9, copyright#9, world#9, shakespeare#14
+1322, benedictine#4, illinois#4, college#4, provided#4, gutenberg#15, project#17, etext#20
+1391, permission#3, machine#4, readable#5, electronic#6, copies#8
+1456, others#3, long#4, distributed#6, 1#7, copies#8
+1519, personal#3, used#5, 2#6, distributed#6, use#6
+1575, prohibited#3, commercially#3, includes#3, commercial#3, distribution#4
+1642, membership#3, service#3, download#3, charges#5
+1705, cooperate#1, proud#1, library#9, world#9, gutenberg#15, project#17
+1771, presentation#2, works#8, complete#9, william#10, shakespeare#14
+1837, reading#1, however#1, education#1, entertainment#1
+1903, neither#1, nor#1, shareware#1, under#3, domain#4, public#4, library#9
+1969, presentation#2, conditions#3, future#3, charges#5
+2035, access#1, material#1, encouraged#2
+2101, allowed#1, away#2, anyone#2, charges#5, give#5
+2175, small#7, print#7, complete#9, shakespeare#14
+2228, version#3, electronic#6, works#8, complete#9, william#10
+2286, 1993#3, 1990#3, inc#5, library#9, copyright#9, world#9, shakespeare#14
+2346, provided#4, gutenberg#15, project#17, etext#20
+2393, permission#3, benedictine#4, illinois#4, college#4
+2442, many#1, unlike#1, tm#2, since#2, etexts#3, gutenberg#15, project#17, etext#20
+2507, methods#1, protected#1, materials#1, since#2, copyright#9
+2572, effect#1, reputation#1, right#2, copy#4, s#5, use#6, project#17
+2638, laws#1, distribute#3, limited#4, copyright#9
+2704, statement#3, conditions#3, small#7, print#7
+2756, license#3, 1#7
+2771, encouraged#2, distribute#3, electronic#6
+2835, long#4, machine#4, readable#5, copies#8, etext#20
+2898, personal#3, others#3, 2#6, use#6, 1#7
+2961, prohibited#3, commercially#3, commercial#3, used#5, distributed#6
+3019, service#3, download#3, includes#3, distribution#4, charges#5
+3083, membership#3
+3110, honor#1, subject#1, conditions#3, b#3, license#3
+3173, provisions#1, replacement#3, refund#3, small#7, print#7
+3235, exact#1, statement#3, distribute#3, copies#8, etext#20
+3299, statement#3, including#6, small#7, print#7, copies#8
+3358, compressed#1, proprietary#1, resulting#1, form#5, including#6
+3424, processing#1, software#2, hypertext#2, word#2, long#4
+3481, either#1
+3494, does#1, displayed#1, clearly#1, readable#5, 1#7, etext#20
+3560, those#1, contain#2, intended#2, characters#3
+3621, work#1, tilde#1, although#1, asterisk#1, author#3
+3681, convey#1, underline#1, punctuation#1, characters#3, used#5
+3743, additional#2, intended#2, author#3, characters#3, used#5
+3808, indicate#1, links#1, hypertext#2
+3845, readily#1, reader#1, convertible#1, 2#6, etext#20
+3907, equivalent#1, ebcdic#1, ascii#2, plain#2, expense#3, form#5
+3969, displays#1, program#1, case#1, instance#1, etext#20
+4035, processors#1, word#2
+4071, request#1, agree#1, 3#2, provide#2
+4129, fee#1, additional#2, plain#2, expense#3, cost#3, copy#4, etext#20
+4194, ascii#2
+4206, disclaimer#1, warranty#2, limited#4, damages#5, 2#6
+4253, incomplete#1, contain#2, defect#3, form#5, etext#20
+4315, errors#1, data#1, inaccurate#1, corrupt#1, transcription#1, copyright#9
+4381, computer#1, damaged#1, disk#1, virus#1, infringement#1, defective#1
+4447, damage#1, codes#1, equipment#1, cannot#1, read#2
+4511, described#1, below#2, right#2, replacement#3, refund#3
+4574, party#1, receive#3, project#17, etext#20
+4639, disclaims#1, tm#2, liability#2, gutenberg#15, project#17, etext#20
+4705, costs#1, expenses#1, fees#2, legal#3, damages#5, including#6
+4770, remedies#1, strict#1, negligence#1, liability#2, under#3
+4832, breach#1, contract#1, warranty#2, limited#4, including#6
+4894, indirect#1, consequential#1, punitive#1, incidental#1, even#2, damages#5
+4960, possibility#1, notice#1, damages#5, give#5
+5015, days#1, 90#1, discover#1, receiv#1, defect#3, within#3, etext#20
+5081, ing#1, paid#2, refund#3, receive#3, money#4
+5146, sending#1, explanatory#1, note#2, within#3
+5209, physical#1, person#3, received#3
+5273, return#1, note#2, medium#2, person#3
+5337, alternatively#2, choose#2, replacement#3, copy#4, give#5
+5399, electronically#2, choose#2, person#3, received#3
+5454, opportunity#1, second#1, alternatively#2, receive#3, give#5
+5513, electronically#2
+5532, otherwise#1, provided#4, etext#20
+5592, express#1, kind#1, implied#2, warranties#3
+5656, medium#2, including#6, etext#20
+5716, fitness#1, merchantability#1, warranties#3, limited#4
+5775, allow#1, states#1, particular#1, purpose#1, disclaimers#2
+5837, exclusion#1, consequen#1, limitation#1, implied#2, warranties#3
+5902, tial#1, above#1, exclusions#1, disclaimers#2, damages#5
+5965, apply#1, rights#1, legal#3
+6019, indemnity#1, hold#1, indemnify#1, 3#2, project#17
+6080, officers#1, lia#1, agents#1, harmless#1, directors#1, members#1
+6144, arise#1, bility#1, fees#2, legal#3, expense#3, cost#3, including#6
+6204, following#1, indirectly#1, directly#1
+6269, alteration#1, cause#1, b#3, distribution#4, etext#20
+6325, modification#1, c#1, addition#1, defect#3, etext#20
+6387, t#1, send#1, don#1, 4#1, want#1, even#2, money#4
+6452, dedicated#1, number#1, increasing#1, gutenberg#15, project#17
+6512, freely#1, licensed#1, domain#4, public#4, distributed#6, works#8
+6577, gratefully#1, accepts#1, machine#4, readable#5, form#5, project#17
+6636, scanning#1, ocr#1, machines#1, contributions#1, software#2, money#4
+6700, free#1, royalty#1, licenses#1, etexts#3, domain#4, public#4, copyright#9
+6760, whatever#1, pro#1, else#2, paid#2, money#4
+6824, ject#1, association#1, benedictine#4, illinois#4, college#4, gutenberg#15
+6887, kramer#1, attorney#1, charles#1, b#3, small#7, print#7
+6939, 212#1, com#1, tel#1, 5093#1, compuserve#1, 2026#1, 254#1, internet#1, 72600#1
+6998, small#7, print#7, complete#9, shakespeare#14
+7052, v#1, 08#1, 93#1, 12#1, small#7, print#7
+7082, version#3, electronic#6, works#8, complete#9, william#10
+7142, 1993#3, 1990#3, inc#5, library#9, copyright#9, world#9, shakespeare#14
+7209, benedictine#4, illinois#4, college#4, provided#4, gutenberg#15, project#17, etext#20
+7278, permission#3, machine#4, readable#5, electronic#6, copies#8
+7343, others#3, long#4, distributed#6, 1#7, copies#8
+7406, personal#3, used#5, 2#6, distributed#6, use#6
+7462, prohibited#3, commercially#3, includes#3, commercial#3, distribution#4
+7529, membership#3, service#3, download#3, charges#5
+7598, 1609#1
+7606, sonnets#1
+7621, william#10, shakespeare#14
+7651, 1#7
+7675, desire#1, creatures#1, increase#1, fairest#1
+7721, rose#1, die#1, thereby#1, beauty#1, might#2, s#5
+7768, decease#1, riper#1
+7812, bear#1, heir#1, memory#1, might#2, tender#2
+7854, contracted#1, bright#1, eyes#1, own#2, thine#2
+7903, fuel#1, feed#1, light#1, substantial#1, flame#1, st#2, self#3, s#5
+7960, famine#1, lies#1, making#1, abundance#1
+8001, sweet#1, foe#1, too#1, cruel#1, self#3
+8051, fresh#1, art#1, ornament#1, s#5, world#9
+8100, gaudy#1, herald#1, spring#1
+8140, content#1, buriest#1, bud#1, own#2, thine#2, within#3
+8185, waste#1, niggarding#1, mak#1, churl#1, tender#2, st#2
+8233, pity#1, glutton#1, else#2, world#9
+8279, due#1, grave#1, eat#1, thee#1, s#5, world#9
+8335, 2#6
+8359, winters#1, brow#1, besiege#1, forty#1
