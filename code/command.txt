@@ -1,0 +1,19 @@
+hadoop fs -put workspace/assignment2/input/pg100_head.txt input/pg100_head.txt
+hadoop jar assignment2.jar yijing.assignment2.wordcounting input/pg100_head.txt output
+hadoop fs -getmerge output workspace/assignment2/output/wordcounting.txt
+
+hadoop jar assignment2.jar yijing.assignment2.pre-processing input/pg100_head.txt output -pass input/Stopwords.txt
+hadoop fs -getmerge output workspace/assignment2/output/wordcountlist_asc.txt
+
+hadoop jar assignment2.jar yijing.assignment2.pre-processing_2 input/pg100_head.txt output -pass input/Stopwords.txt
+hadoop fs -getmerge output workspace/assignment2/output/wordlist_asc.txt
+hadoop fs -getmerge totlines.txt workspace/assignment2/output/totlines.txt
+
+hadoop fs -put workspace/assignment2/output/wordlist_asc.txt input/wordlist_asc.txt
+hadoop jar assignment2.jar yijing.assignment2.similarityjoin_A input/wordlist_asc.txt output
+hadoop fs -getmerge output workspace/assignment2/output/similarpairs_a.txt
+hadoop fs -getmerge totcompare_a.txt workspace/assignment2/output/totcompare_a.txt
+
+hadoop jar assignment2.jar yijing.assignment2.similarityjoin_B input/wordlist_asc.txt output
+hadoop fs -getmerge output workspace/assignment2/output/similarpairs_b.txt
+hadoop fs -getmerge totcompare_b.txt workspace/assignment2/output/totcompare_b.txt
